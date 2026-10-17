@@ -1,0 +1,4 @@
+interface:
+  display_name: "Agent Autonomy Levels"
+  short_description: "Plan bounded, per-domain autonomy grants"
+  default_prompt: "Use $agent-autonomy-levels to define and review a bounded autonomy scope."
